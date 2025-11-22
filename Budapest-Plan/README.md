@@ -124,6 +124,6 @@ A perfectly balanced itinerary covering:
 - **Iconic landmarks** without long museum visits  
 - **Budapest’s magical Christmas markets**  
 - A taste of nightlife with ruin bars  
-- A flexible Day 3 to match your vibe  
+- A flexible Day 3 to match our vibe  
 
-Enjoy your trip! 🎄🇭🇺
+Enjoy! 🎄🇭🇺
