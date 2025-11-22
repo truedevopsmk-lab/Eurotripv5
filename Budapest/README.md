@@ -1,4 +1,4 @@
-Nice — here’s a tight, practical **2.5-day Budapest plan** that fits your *Top-15* hits while **skipping time-heavy interiors/museums**. I assume you arrive **~12:35 Day 0**, clear airport, and can start exploring ~15:00. If your arrival is later or you feel jet-lagged, trim Day-0 slightly.
+Here’s a tight, practical **2.5-day Budapest plan** that fits our *Top-15* hits while **skipping time-heavy interiors/museums**. I assume you arrive **~12:35 Day 0**, clear airport, and can start exploring ~15:00. If your arrival is later or you feel jet-lagged, trim Day-0 slightly.
 
 I give (A) a high-level plan per half/full day, (B) a timed walkable schedule you can follow, and (C) quick tips (tickets, transport, priorities). Let’s go.
 
@@ -93,11 +93,3 @@ Skip long interior visits that eat 1–2 hours each:
 * **Day 2 (half):** Jewish Quarter cafés / last shopping → depart.
 
 ---
-
-If you want, I’ll now:
-
-* Turn this into a **printable one-page checklist** for your pocket, or
-* Generate a **Google Calendar** friendly timetable (you paste times into your calendar), or
-* Mark specific **addresses + recommended cafés & restaurant names** for each block (so you can walk straight there).
-
-Which of these should I produce next?
