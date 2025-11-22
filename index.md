@@ -6,5 +6,11 @@
   <a href="/coffee/" style="margin-right: 15px;">Coffee</a>
   <a href="/fitness/" style="margin-right: 15px;">Fitness</a>
 </div>
+## Itinerary
+- [Budapest](/Budapest/)
+- [Budapest Plan](/Budapest-Plan/)
+- [Places Map](/places/map.htm)
 
 {% include_relative README.md %}
+
+
