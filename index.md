@@ -7,9 +7,9 @@
   <a href="/fitness/" style="margin-right: 15px;">Fitness</a>
 </div>
 ## Itinerary
-- [Budapest](/Budapest/)
+- [Budapest](Eurotripv5/Budapest/)
 - [Budapest Plan](/Budapest-Plan/)
-- [Places Map](/places/map.htm)
+- [Places Map](/Eurotripv5/places/map.htm)
 
 {% include_relative README.md %}
 
